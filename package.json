@@ -32,7 +32,7 @@
     "@actions/core": "^1.2.6"
   },
   "devDependencies": {
-    "@types/node": "^12.12.6",
+    "@types/node": "^12.20.18",
     "@typescript-eslint/parser": "^2.30.0",
     "@zeit/ncc": "^0.22.1",
     "concurrently": "^5.2.0",
