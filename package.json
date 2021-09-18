@@ -35,8 +35,8 @@
     "@types/node": "^12.12.6",
     "@typescript-eslint/parser": "^2.30.0",
     "@zeit/ncc": "^0.22.1",
-    "concurrently": "^5.2.0",
-    "eslint": "^7.4.0",
+    "concurrently": "^6.0.0",
+    "eslint": "^7.16.0",
     "eslint-plugin-github": "^4.1.1",
     "prettier": "^2.0.5",
     "typescript": "^3.8.3"
