@@ -36,7 +36,7 @@
     "@types/node": "^12.12.6",
     "@typescript-eslint/eslint-plugin": "^5.40.1",
     "@vercel/ncc": "^0.33.4",
-    "concurrently": "^5.2.0",
+    "concurrently": "^6.2.2",
     "eslint": "^7.4.0",
     "eslint-plugin-github": "^4.1.1",
     "prettier": "^2.0.5",
